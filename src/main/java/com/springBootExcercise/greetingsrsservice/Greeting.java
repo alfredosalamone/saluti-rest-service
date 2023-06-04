@@ -1,4 +1,4 @@
-package com.example.restservice;
+package com.springBootExcercise.greetingsrsservice;
 
 public record Greeting(long id, String content) {
 }

@@ -1,5 +1,4 @@
-package com.example.restservice;
-
+package com.springBootExcercise.greetingsrsservice;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
